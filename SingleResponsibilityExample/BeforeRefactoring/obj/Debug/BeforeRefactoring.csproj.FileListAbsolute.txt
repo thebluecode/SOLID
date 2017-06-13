@@ -1,0 +1,12 @@
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.exe.config
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.exe
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.pdb
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.exe
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.pdb
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsability\Presentation\Code\SingleResponsabilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.exe.config
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.exe
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\bin\Debug\BeforeRefactoring.pdb
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.csprojResolveAssemblyReference.cache
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.exe
+C:\Users\stefa\Google Drive\Studies\SOLID\Single Responsibility\Presentation\Code\SingleResponsibilityExample\BeforeRefactoring\obj\Debug\BeforeRefactoring.pdb
