@@ -1,7 +1,0 @@
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\bin\Debug\RefactoredByInterfaces.exe.config
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\bin\Debug\RefactoredByInterfaces.exe
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\bin\Debug\RefactoredByInterfaces.pdb
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\bin\Debug\Newtonsoft.Json.dll
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\obj\Debug\RefactoredByInterfaces.csprojResolveAssemblyReference.cache
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\obj\Debug\RefactoredByInterfaces.exe
-C:\Users\stefa\Google Drive\Studies\SOLID\Open Closed Principle\Presentation\Code\OpenClosedExample\RefactoredByInterfaces\obj\Debug\RefactoredByInterfaces.pdb
