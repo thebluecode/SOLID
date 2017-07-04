@@ -1,0 +1,6 @@
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\bin\Debug\CorrectSubstitution.exe.config
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\bin\Debug\CorrectSubstitution.exe
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\bin\Debug\CorrectSubstitution.pdb
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\obj\Debug\CorrectSubstitution.csprojResolveAssemblyReference.cache
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\obj\Debug\CorrectSubstitution.exe
+C:\Users\stefa\OneDrive\Documents\Visual Studio 2017\Projects\LiskovSubstitutionExample\CorrectSubstitution\obj\Debug\CorrectSubstitution.pdb
